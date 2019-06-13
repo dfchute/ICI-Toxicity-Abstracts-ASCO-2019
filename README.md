@@ -80,6 +80,10 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## VII. Hematology
 
+*1. Hemolytic anemia in immunotherapy*
+- **title:** Recurrent and de-novo autoimmune hemolytic anemia in patients treated with immunotherapy for advanced cancer.
+- **link:** http://abstracts.asco.org/239/AbstView_239_248567.html
+- **conclusion:** The incidence of hemolytic anemia in patients treated with immunotherapy was low. Presence of alloAb at baseline may predict irAE during IO treatment as patients with positive alloAb at baseline had a higher rate of irAE than those without.
 
 ## IX. Endocrine
 
