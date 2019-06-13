@@ -30,7 +30,15 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## II. The Science Behind Adverse Events
 
-		
+*1. Nivolumab's relationship with the microbiome*
+- **title:** Gut microbiota and clinical outcomes treated with nivolumab in Chinese non-small cell lung cancer.
+- **link:** http://abstracts.asco.org/239/AbstView_239_253305.html
+- **conclusion:** Strong correlation between the gut microbiome diversity and the responses to anti–PD-1 immunotherapy in Chinese NSCLC patients regardless of genetic variation between Western and Chinese population. Patients with a favorable gut microbiome (such as high diversity) have enhanced immune responses mediated by effector T cell function in the periphery. These findings thus provide important implications for the prediction and the evaluation of anti-PD-1 immunotherapy against NSCLC.
+
+*2. Immune biomarkers may be tissue specific*
+- **title:** Immunotherapy clinical trials suggest predictive immune-related biomarkers are tissue specific
+- **link:** http://abstracts.asco.org/239/AbstView_239_271209.html
+- **conclusion:** Our results suggest effective immunotherapy trials may require tissue-specific biomarker development. Further, a combination of immune signatures and biomarkers such as TMB shows markedly increased utility compared to single factor such as TMB, PD-1 or PD-L1 expression alone.
 
 ## III. Neurological and Neuromuscular
 
@@ -48,6 +56,21 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## V. Colitis
 
+*1. Colitis after resumption of immunotherapy*
+- **title:** Immune-mediated colitis after resumption of immune checkpoint inhibitor therapy.
+- **link:** http://abstracts.asco.org/239/AbstView_239_264447.html
+- **conclusion:** One-third of patients who resumed ICI treatment after IMDC experienced recurrent IMDC. IMDC recurrence was less frequent after resumption of anti–PD-1/L1 than after anti–CTLA-4. Characteristics of recurrent IMDC based on resumed ICI therapy.
+
+*2. Immunosuppression therapy for colitis*
+- **title:** Outcomes after early initiation of nonsteroidal immunosuppressive therapy in patients with immune checkpoint inhibitor-induced colitis.
+- **link:** http://abstracts.asco.org/239/AbstView_239_261383.html
+- **conclusion:** NSIST should be introduced early in the disease course of IMC instead of waiting until failure of steroid therapy or steroid taper. Patients who received three or more infusions of NSIST had more favorable clinical outcomes.
+
+*3. IBD variants among those with immunotherapy colitis*
+- **title:** High prevalence of IBD-associated genetic variants in patients (pts) with immune checkpoint inhibitor (ICI) enteritis/colitis.
+- **link:** http://abstracts.asco.org/239/AbstView_239_266285.html
+- **conclusion:** In this pilot study, all patients with ICI colitis, were either homozygous or heterozygous for two or more high risk IBD alleles. If validated, such testing may prospectively identify pts at risk for developing ICI colitis.
+
 ## VI. Cardiac
 
 *1. Cardiac Toxicity*
@@ -56,6 +79,7 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 - **conclusion:** Out of the reported cases of adverse reaction to check point inhibitor, 6.2% were cardio toxicities. 35% of cardio toxicities were fatal. Half of the cases who developed myocarditis died. There was no statistical difference in rate of cardiotoxicities caused by PD1, PDL1 or CTLA 4 inhibitors.
 
 ## VII. Hematology
+
 
 ## IX. Endocrine
 
