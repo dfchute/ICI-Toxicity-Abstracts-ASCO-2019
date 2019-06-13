@@ -23,8 +23,13 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 - **link:** http://abstracts.asco.org/239/AbstView_239_255211.html
 - **conclusion:**  The dermatological, gastrointestinal and endocrine toxicities were the most frequent ir-AE´s, and they were observed in a low grade toxicity. The irAE´s profile is different among ICI or their combination and number of cycles administered. Ipilimumab alone or combined was associated to higher risk of severe irAEs.
 
+*5. Meta-analysis of toxicity*
+- **title:**  living systematic review of immune checkpoint inhibitors in cancer patients: A novel platform for evidence synthesis in oncology.
+- **link:** http://abstracts.asco.org/239/AbstView_239_271655.html
+- **conclusion:**  The meta-analysis updates previously published toxicity estimates and provides additional information about the risk of toxicities in single versus combination regimens. We have initiated the first living systematic review in oncology that will be continuously updated, incorporating relevant new evidence as it becomes available, and will provide accurate and up to date toxicity estimates to support clinical decision making.
+
 ## II. The Science Behind Adverse Events
-  
+
 		
 
 ## III. Neurological and Neuromuscular
