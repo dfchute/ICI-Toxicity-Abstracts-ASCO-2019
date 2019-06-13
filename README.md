@@ -3,13 +3,13 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 I. General Toxicity
 
-		Response's relationship to toxicity
-		title: Immunotherapy: Auto-immune toxicity as a predictive factor of response.
-		link: http://abstracts.asco.org/239/AbstView_239_267517.html
+Response's relationship to toxicity
+title: Immunotherapy: Auto-immune toxicity as a predictive factor of response.
+link: http://abstracts.asco.org/239/AbstView_239_267517.html
 
-		Toxicities in the setting of clinical practice
-		title: Immune checkpoint inhibitor toxicity in the clinical practice setting.
-		link: http://abstracts.asco.org/239/AbstView_239_266535.html
+Toxicities in the setting of clinical practice
+title: Immune checkpoint inhibitor toxicity in the clinical practice setting.
+link: http://abstracts.asco.org/239/AbstView_239_266535.html
 
 II. The Science Behind Adverse Events
   
@@ -17,9 +17,9 @@ II. The Science Behind Adverse Events
 
 III. Neurological and Neuromuscular
 
-		Cell types present in neuromuscular autoimmune events
-		title: Clinical and immunological analyses of immune checkpoint inhibitor-associated neuromuscular (NM) toxicities.
-		link: http://abstracts.asco.org/239/AbstView_239_270999.html
+Cell types present in neuromuscular autoimmune events
+title: Clinical and immunological analyses of immune checkpoint inhibitor-associated neuromuscular (NM) toxicities.
+link: http://abstracts.asco.org/239/AbstView_239_270999.html
 		
 IV. Hepatitis
 
@@ -27,10 +27,11 @@ V. Colitis
 
 VI. Cardiac
 
-		Report of Cardiac Toxicities
-		title: Cardiovascular complications of immune checkpoint inhibitor therapy.
-		link: http://abstracts.asco.org/239/AbstView_239_260643.html
-		conclusion: Out of the reported cases of adverse reaction to check point inhibitor, 6.2% were cardio toxicities. 35% of cardio toxicities were fatal. Half of the cases who developed myocarditis died. There was no statistical difference in rate of cardiotoxicities caused by PD1, PDL1 or CTLA 4 inhibitors.
+Report of Cardiac Toxicities
+title: Cardiovascular complications of immune checkpoint inhibitor therapy.
+link: http://abstracts.asco.org/239/AbstView_239_260643.html
+conclusion: Out of the reported cases of adverse reaction to check point inhibitor, 6.2% were cardio toxicities. 35% of cardio toxicities were fatal. Half of the cases who developed myocarditis died. There was no statistical difference in rate of cardiotoxicities caused by PD1, PDL1 or CTLA 4 inhibitors.
+
 VII. Hematology
 
 IX. Endocrine
@@ -45,6 +46,6 @@ XIII. Opthalmology
 		
 XIV. Efforts at Predicting Toxicity
  
-		CNN to predict from tumor histology
-		title: Using machine learning algorithms to predict response and toxicity to immune checkpoint inhibitors (ICIs) in melanoma patients.
-		link: http://abstracts.asco.org/239/AbstView_239_266079.html
+CNN to predict from tumor histology
+title: Using machine learning algorithms to predict response and toxicity to immune checkpoint inhibitors (ICIs) in melanoma patients.
+link: http://abstracts.asco.org/239/AbstView_239_266079.html
