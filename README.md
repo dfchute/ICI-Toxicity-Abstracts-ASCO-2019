@@ -87,7 +87,18 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## IX. Endocrine
 
+*1. Meta-analysis of endocrine adverse events*
+- **title:** A comprehensive meta-analysis of endocrine immune-related adverse events of immune checkpoint inhibitors and outcomes in head and neck cancer and lung cancer.
+- **link:** http://abstracts.asco.org/239/AbstView_239_269251.html
+- **conclusion:** ICPi are a powerful tool in the treatment of cancer. The prevalence of endocrine irAEs in this meta-analysis was 9%. There is evidence of improved overall survival in patients who developed endocrine irAEs. Further studies are needed to correlate the development of irAEs and OS advantage.
+
+*2. Neck irradiation associated with thyroid dysfunction in patients receiving immunotherapy*
+- **title:** Predictors and outcomes of thyroid dysfunction with immunotherapy: A single institution observational experience.
+- **link:** http://abstracts.asco.org/239/AbstView_239_261837.html
+- **conclusion:** History of radiation therapy to neck is significantly associated with development of thyroid dysfunction in patients receiving immunotherapy. Thyroid replacement therapy is sufficient to bring down the levels of TSH and immunotherapy need not be interrupted.
+
 ## X. Rheumatology
+
 
 ## XI. Dermatology
 
