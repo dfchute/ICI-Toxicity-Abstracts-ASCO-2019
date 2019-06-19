@@ -99,10 +99,20 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## X. Rheumatology
 
+*1. Data suggests increased risk for dermatitis AEs in elderly. No significant difference in arthritis toxicity in elderly when compared to younger patients.*
+- **title** Toxicity of PD-1/CTLA-4 inhibitor immunotherapy among elderly patients.
+- **link:** http://abstracts.asco.org/239/AbstView_239_248783.html
+- **conclusion:** Patients who are 65 years or older can safely tolerate immunotherapy as compared to patients < 65 years old but with an increased risk of dermatitis. These data should be validated by a larger study population.
 
 ## XI. Dermatology
 
+*1. No correlation between past medical history and adverse events on immunotherapy (e.g. history of rash)*
+- **title:** Association between past medical history (PMH) of autoimmune events and adverse events of special interest (AESI).
+- **link:** http://abstracts.asco.org/239/AbstView_239_258801.html
+- **conclusion:** Pooled clinical trial data shows a slight numeric increase in AESIs in patients with autoimmune-associated PMH. Limitations include potential lack of consistency of PMH documentation and adverse event reporting. There did not appear to be a pattern of association between PMH and type of AESI event. Grades of AESI events in the population with autoimmune-associated PMH were similar to the general trial population. This suggests that PD-1/L1 inhibitors may be safely administered to patients with UC and a PMH of some autoimmune-associated events. Further exploration is needed.
+
 ## XII. Renal
+
 
 ## XIII. Opthalmology
 		
