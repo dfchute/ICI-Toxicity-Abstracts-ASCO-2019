@@ -116,6 +116,11 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## XIII. Opthalmology
 		
+*1. From JAMA: PD-L1 association with AMN and diffuse retinal venulitis*
+- **title:** Association of Cancer Immunotherapy With Acute Macular Neuroretinopathy and Diffuse Retinal Venulitis.
+- **link:** https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2712694
+- **conclusion:** While only 2 cases of patients receiving the programmed death ligand 1 inhibitor atezolizumab who experienced AMN and diffuse retinal venulitis are described here, these findings suggest that patients receiving programmed death 1 axis inhibitor therapies may need to be monitored for unexpected immune-related ocular toxicity including abnormalities of the microvasculature and large retinal vessels. Further studies might investigate the potential mechanisms of retinal vascular changes associated with these therapies.
+
 ## XIV. Efforts at Predicting Toxicity
 
 *1. Machine learning approach to prediction*
