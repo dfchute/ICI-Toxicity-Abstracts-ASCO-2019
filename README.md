@@ -113,6 +113,11 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 
 ## XII. Renal
 
+*1. From NDT: Description of AIN management*
+- **title:** Immune checkpoint inhibitors: new challenges for nephrologists.
+- **link:** https://academic.oup.com/ndt/article/34/Supplement_1/gfz103.SP109/5515304
+- **conclusion:** ICP were related to acute TIN in all our pts. Nevertheless, the course of the disease was different among them. CCT appear to have a beneficial effect, but may not be enough to control the reprogramming of the immune system in pts who become CCT-dependent or who may be CCT-resistant. As these therapies reach a greater number of pts, the nephrologists will be called to be part of the multidisciplinary approach the new immunotherapies demand for. More studies are needed to understand which therapeutic alternatives may be safely used and for how long the changes on the immune system might last.
+
 
 ## XIII. Opthalmology
 		
