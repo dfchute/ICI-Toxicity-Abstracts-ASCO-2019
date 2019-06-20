@@ -11,7 +11,7 @@ Relevant abstracts for the MGH Immune Checkpoint Inhibitor Toxicity Group
 *2. Toxicity in the clinic*
 - **title:** Immune checkpoint inhibitor toxicity in the clinical practice setting.
 - **link:** http://abstracts.asco.org/239/AbstView_239_266535.html
-- **link:** Overall, there was increased incidence in ICI toxicity in patients at this oncology institution versus what has been reported in clinical trials. Patients with preexisting autoimmune diseases appeared to have mainly low-grade toxicities with slightly increased incidence of irAE compared with those without pre-existing autoimmune disease. Treatment holds and hospitalizations were higher in patients treated with combination therapy ICIs compared to monotherapy ICIs.
+- **conclusion:** Overall, there was increased incidence in ICI toxicity in patients at this oncology institution versus what has been reported in clinical trials. Patients with preexisting autoimmune diseases appeared to have mainly low-grade toxicities with slightly increased incidence of irAE compared with those without pre-existing autoimmune disease. Treatment holds and hospitalizations were higher in patients treated with combination therapy ICIs compared to monotherapy ICIs.
 
 *3. Updates on incidence and clinical pattern*
 - **title:** Incidence and clinical pattern of immune related adverse effects (irAE) due to immune checkpoint inhibitors (ICI).
